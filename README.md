@@ -33,7 +33,7 @@ Make sure you have the following installed on your system:
    Open your terminal and run the following command to clone the repository:
 
    ```
-   git clone https://github.com/yourusername/todo-app.git
+   git clone https://github.com/Akbarabi/todo-app.git
    ```
 
 2. **Navigate into the project directory**
