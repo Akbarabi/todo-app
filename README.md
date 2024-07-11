@@ -34,7 +34,22 @@ Make sure you have the following installed on your system:
 
    ```
    git clone https://github.com/yourusername/todo-app.git
+   ```
+
+2. **Navigate into the project directory**
+
+   ```
    cd todo-app
+   ```
+
+3. **Install dependencies**
+
+   ```
    flutter pub get
+   ```
+
+4. **Run the app**
+
+   ```
    flutter run
    ```
