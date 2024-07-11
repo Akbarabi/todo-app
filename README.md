@@ -1,7 +1,7 @@
 # 📝 To-Do App
 A simple and To-Do App built with Flutter.
 
-## some functions may or may not work correctly or not run optimally
+## some functions may or may not work correctly or not run optimally and doesn't have usage
 
 ## Features
 Add Tasks: Quickly add new tasks with a title and description.
