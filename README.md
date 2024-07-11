@@ -11,30 +11,30 @@ Task Status: Mark tasks as completed or pending.
 Due Dates: Set and track due dates for your tasks.
 Search & Filter: Easily find tasks using the search and filter functionality.
 
-# Installation
-Follow these steps to get the app running on your local machine:
-
-# Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/your-username/todo-app.git
-cd todo-app
-Install dependencies:
-
-bash
-Copy code
-npm install
-Run the app:
-
-bash
-Copy code
-npm start
-
-
 # Usage
 Add a Task: Click on the "Add Task" button, fill in the task details, and save.
 Edit a Task: Click on a task to view details, then click the "Edit" button.
 Delete a Task: Click on a task to view details, then click the "Delete" button.
 Mark as Complete: Click the checkbox next to a task to mark it as completed.
 Filter Tasks: Use the search bar and filters to find specific tasks.
+
+### Prerequisites
+
+Make sure you have the following installed on your system:
+
+- [Flutter](https://flutter.dev/docs/get-started/install)
+- [Git](https://git-scm.com/)
+- Any IDE that supports Flutter, such as [Visual Studio Code](https://code.visualstudio.com/) or [Android Studio](https://developer.android.com/studio)
+
+### Installation
+
+1. **Clone the repository:**
+
+   Open your terminal and run the following command to clone the repository:
+
+   ```
+   git clone https://github.com/yourusername/todo-app.git
+   cd todo-app
+   flutter pub get
+   flutter run
+   ```
